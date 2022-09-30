@@ -18,26 +18,26 @@ It's based on Richard Zhang's work in 2016 ECCV paper, [Colorful Image Colorizat
 # Results
 
 - colorise pictures from black and white era
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/images/classic.jpg" />
+<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/classic.jpg" />
 <img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/output_classic.jpg" />
 </div>
 <br /><br />
 
 - get a random colored image from grayscale image
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/images/rose.jpg" />
+<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/rose.jpg" />
 <img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/output_rose.jpg" />
 </div>
 <br /><br />
 
 - remove unwanted colors and normalise the image
-<div style="float:left"><img width="30%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/images/orig_dog.jpg" />
+<div style="float:left"><img width="30%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/orig_dog.jpg" />
 <img width="30%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/dog.jpg" />
-<img width="30%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/output_scenery.jpg" />
+<img width="30%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/output_dog.jpg" />
 </div>
 <br /><br />
 
 - few unrealistic outcomes
-<div style="float:left"><img width=45"%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/rose.png" />
+<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/rose.png" />
 <img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/output_rose.png" />
 </div>
 <br /><br />
