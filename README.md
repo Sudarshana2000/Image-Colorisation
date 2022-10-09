@@ -15,7 +15,7 @@ It's based on Richard Zhang's work in 2016 ECCV paper, [Colorful Image Colorizat
 - [pre-trained colorisation model](models/)
 
 
-# Results
+## Results
 
 - colorise pictures from black and white era
 <div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Image-Colorisation/blob/master/images/classic.jpg" />
